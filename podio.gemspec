@@ -18,8 +18,8 @@ Gem::Specification.new do |s|
   s.add_dependency('faraday', '~> 0.7.0')
   s.add_dependency('activesupport', '~> 3.1.0')
   s.add_dependency('activemodel', '~> 3.1.0')
-  s.add_dependency('i18n', '~> 0.5.0')
-  s.add_dependency('multi_json', '~> 0.0.5')
+  s.add_dependency('i18n', '~> 0.6.0')
+  s.add_dependency('multi_json', '~> 1.0.0')
 
   s.description       = <<desc
 The official Ruby wrapper for the Podio API used and maintained by the Podio team
